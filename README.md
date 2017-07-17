@@ -9,6 +9,7 @@ To Run:
 > python main.py
 ```
 
+Input as list of arrays:
 ```python
 input =
 [[0, 4], [5, 9], [10, 14]], # person 1
